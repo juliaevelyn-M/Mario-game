@@ -28,7 +28,7 @@
 }
 
 .jump {
-  animation: jump 500ms ease-out;
+  animation: jump 700ms ease-out;
 
 }
 
@@ -56,14 +56,14 @@ width: 550px;
   }
 
   40% {
-    bottom: 180px;
+    bottom: 200px;
   }
 
   50% {
-    bottom: 180px;
+    bottom: 200px;
   }
   60% {
-    bottom: 180px;
+    bottom: 200px;
   }
 
   100% {

@@ -6,7 +6,7 @@ const jump = () => {
 
   setTimeout(() => {
    mario.classList.remove('jump');
-}, 500);
+}, 700);
 }
 
  const loop = setInterval(() => {
